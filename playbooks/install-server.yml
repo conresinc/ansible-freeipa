@@ -4,5 +4,5 @@
   become: true
 
   roles:
-  - role: ipaserver
-    state: present
+    - role: ipaserver
+      state: present
